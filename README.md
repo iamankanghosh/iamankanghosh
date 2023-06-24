@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ankan Ghosh</h1>
-<h3 align="center">I am B.Tech CSE graduate, Full Stack Dev & software development enthusiast, skilled in Java & Python, experienced in Node.js, React.Js .</h3>
+<h4 align="left">I am B.Tech CSE graduate, Full Stack Dev & software development enthusiast, skilled in Java & Python, experienced in Node.js, React.Js .</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/iamankanghosh](https://github.com/iamankanghosh)
-
+- 👨‍💻 My portfolio website https://ankan.in
+- 💬 Ask me about Node.js, React.Js, Full stack development etc.
 - 📫 How to reach me **ankang790@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/iamankanghosh/iamankanghosh/blob/main/AnkanGhoshResume.pdf](https://github.com/iamankanghosh/iamankanghosh/blob/main/AnkanGhoshResume.pdf)
+- 📄 Know about my experiences [AnkanGhoshResume](https://ankan.in/static/media/AnkanGhoshResume.349a12fe41ebcdc08275.pdf)
 
 - ⚡ My Portfolio **https://ankan.in/**
 
