@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Node.js, React.Js, Full stack development etc.
 - 📫 How to reach me **ankang790@gmail.com**
 
-- 📄 Know about my experiences [AnkanGhoshResume](https://ankan.in/static/media/AnkanGhoshResume.349a12fe41ebcdc08275.pdf)
+- 📄 Know about my experiences [AnkanGhoshResume](https://ankan.in/assets/AnkanGhoshResume.pdf)
 
 - ⚡ My Portfolio **https://ankan.in/**
 
